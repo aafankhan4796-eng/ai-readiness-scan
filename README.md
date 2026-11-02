@@ -18,8 +18,6 @@ Small businesses hear a lot about AI but rarely know where to start. This tool a
 3. **Report:** the two weakest dimensions get targeted recommendations, plus use cases for the chosen sector (fitness studio, daycare, elderly care home or general small business) and a 30-day pilot plan.
 4. **Optional AI summary:** with an Anthropic API key, Claude writes a short executive summary in consultant style. Without a key the tool still works fully.
 
-![Example report section](docs/report.png)
-
 See a full example: [sample_report.md](sample_report.md)
 
 ## Tech stack
