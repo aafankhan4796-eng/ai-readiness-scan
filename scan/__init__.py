@@ -1,0 +1,1 @@
+"""AI Readiness Scan package."""
